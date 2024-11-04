@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yeyeye/static/css/main.25a1ad15.css",
+    "main.js": "/yeyeye/static/js/main.5dba1c89.js",
+    "static/js/453.fd9dd196.chunk.js": "/yeyeye/static/js/453.fd9dd196.chunk.js",
+    "index.html": "/yeyeye/index.html",
+    "main.25a1ad15.css.map": "/yeyeye/static/css/main.25a1ad15.css.map",
+    "main.5dba1c89.js.map": "/yeyeye/static/js/main.5dba1c89.js.map",
+    "453.fd9dd196.chunk.js.map": "/yeyeye/static/js/453.fd9dd196.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25a1ad15.css",
+    "static/js/main.5dba1c89.js"
+  ]
+}
